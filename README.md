@@ -19,3 +19,11 @@ The project is divided into two parts:
 This data analysis project presents compelling evidence of gender discrimination across all departments in a detailed manner. The undeniable gender gap is occurred in every department, with a particularly significant disparity observed in the fields of medicine and surgery.
 
 # Dependencies
+
+•	Python
+•	Pandas
+•	NumPy
+•	Scikit-learn
+•	Matplotlib
+•	Excel
+
