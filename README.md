@@ -1,4 +1,4 @@
-# Gender-discrimination-in-academia
+# Gender-discrimination-in-academia Analysis
 
 Project Overview
 
